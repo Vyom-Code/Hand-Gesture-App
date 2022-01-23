@@ -1,0 +1,17 @@
+body{
+    color:white;
+    background: linear-gradient(blue 0%, green 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+#name, #gesture{
+    color:black;
+}
